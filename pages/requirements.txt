@@ -1,0 +1,11 @@
+streamlit
+pandas
+yfinance
+numpy
+plotly
+pandas_ta
+tensorflow
+keras
+ta
+scikit-learn
+python-dateutil

@@ -1,0 +1,15 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+.venv/
+*.egg-info/
+*.log
+
+# Optional: ignore VS Code settings (if using)
+.vscode/
+
+# Ignore other unnecessary files
+.DS_Store
