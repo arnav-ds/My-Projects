@@ -42,4 +42,5 @@ Generates predicted stock prices for the next 30 days using machine learning mod
    cd your-repo-name
 
 pip install -r requirements.txt
+
 streamlit run app.py
