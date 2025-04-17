@@ -4,3 +4,4 @@
 ![Stock Prediction for Apple Inc](https://github.com/user-attachments/assets/a30bb7b1-069a-4a40-8e47-d2fd151e14aa)
 ![Stock Price and Price analysis](https://github.com/user-attachments/assets/b355f624-da9a-4e33-9571-8419136c1203)
 ![Trading Guide app homepage](https://github.com/user-attachments/assets/eada24d8-222c-4db5-bec5-e8de6e33a26b)
+![Trading guide app homepage1](https://github.com/user-attachments/assets/c600eac2-47bd-476d-a4e7-1861c87a76f9)
