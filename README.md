@@ -7,7 +7,7 @@ Trading Guide is a stock analysis and forecasting tool that helps investors eval
 
 ### 1. Stock Analysis Overview
 Provides company details, including business operations, sector, and key financial metrics.
-![Trading Guide app homepage](./path-to-your-image/trading-guide-homepage.png)
+![Trading Guide homepage](./screenshots/trading-guide-homepage.png)
 
 ### 2. Key Financial Metrics
 Displays important metrics like Market Cap, EPS, PE Ratio, Profit Margins, Debt to Equity, and more.
